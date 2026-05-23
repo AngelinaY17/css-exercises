@@ -6,7 +6,7 @@
    font-family: Verdana, DejaVu Sans, sans-serif; 
 }
 
-/* for the div */
+/* for the div; '.' for class; # for IDs */
 #num2{
     color: blue;
     font-size: 36px;
